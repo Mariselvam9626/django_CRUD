@@ -1,0 +1,94 @@
+# Python
+*.py[cod]
+*.$py.class
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+.installed.cfg
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Django
+*.log
+*.pot
+*.py[cod]
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+.env.*
+
+# JetBrains
+*.iml
+
+# Coverage
+.coverage
+.htmlcov/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Sphinx
+docs/_build/
+
+# Generated files
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+*.sqlite3-journal
+*.pem
+
+# Misc
+*.swp
+*~
